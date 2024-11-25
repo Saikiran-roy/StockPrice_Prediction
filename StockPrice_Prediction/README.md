@@ -1,1 +1,3 @@
-# stock_price_prediction
+# StockPrice_prediction
+
+The **Stock Trend Prediction Using Python & LSTM** project aims to predict future stock prices using historical data and Long Short-Term Memory (LSTM) networks. LSTM is a type of Recurrent Neural Network (RNN) well-suited for time-series data like stock prices. The project starts by collecting historical stock data, cleaning, and normalizing it for training. The data is split into training and testing sets, with the LSTM model trained on the past stock trends. Python libraries like **Pandas**, **Matplotlib**, and **Keras** are used for data manipulation, visualization, and building the LSTM model. After training, the model predicts future trends and compares them with actual values. The project's goal is to help understand stock market behavior and develop a predictive model using machine learning. The result is a model capable of forecasting stock price movements based on past data.
